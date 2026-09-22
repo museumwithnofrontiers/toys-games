@@ -1,11 +1,11 @@
 {
-  "__SITE_NAMESPACE__.identity.organisation": "Museum With No Frontiers",
-  "__SITE_NAMESPACE__.identity.title": "__DATASET__",
-  "__SITE_NAMESPACE__.identity.copyright": "© Museum With No Frontiers",
-  "__SITE_NAMESPACE__.home.intro": "Welcome to __DATASET__.",
-  "__SITE_NAMESPACE__.home.catalogueText": "Browse every item by country and date.",
-  "__SITE_NAMESPACE__.home.itemOnDisplay": "Item on display",
-  "__SITE_NAMESPACE__.nav.catalogue": "Catalogue",
-  "__SITE_NAMESPACE__.nav.about": "About",
-  "__SITE_NAMESPACE__.about.body": "This website is published by Museum With No Frontiers. Replace this text with what __DATASET__ is and who made it."
+  "toysGames.identity.organisation": "Museum With No Frontiers",
+  "toysGames.identity.title": "toys-games",
+  "toysGames.identity.copyright": "© Museum With No Frontiers",
+  "toysGames.home.intro": "Welcome to toys-games.",
+  "toysGames.home.catalogueText": "Browse every item by country and date.",
+  "toysGames.home.itemOnDisplay": "Item on display",
+  "toysGames.nav.catalogue": "Catalogue",
+  "toysGames.nav.about": "About",
+  "toysGames.about.body": "This website is published by Museum With No Frontiers. Replace this text with what toys-games is and who made it."
 }
